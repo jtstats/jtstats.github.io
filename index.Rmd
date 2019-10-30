@@ -6,17 +6,19 @@ output:
     toc_float: true
 ---
 
+## Welcome!
 
 Here you've reached **Jingyi Tang's personal website**, congratutions!
 
 <img src="image/giphy.gif" style="width:95%">
 
-Here's the star of Jingyi's page:
-    The most-loved and must-love puppy - Mochi!
+## Here's **the star** of Jingyi's page:
+    
+The most-loved and must-love puppy - **Mochi**!
 <img src="image/puppy_uda.jpg" style="width:95%">
 <img src="image/puppy_ins_girl.jpg" style="width:95%">
 
-Here's something Jingyi likes to do:
+## Here's something Jingyi likes to do:
 
 Half-finished doddles:
 <img src="image/serious_doodle.jpg" style="width:95%">
