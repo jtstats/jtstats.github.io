@@ -1,0 +1,110 @@
+---
+title: "Jingyi's Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+---
+title: "Jingyi Tang"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## **EDUCATION**
+
+### **Columbia University, New York City, NY**							      8/2019 -	 Present
+
+Master of Science, Biostatistics, Statistical Genetics track
+
+### **The University of Iowa, Iowa City, IA**		     			                       	           January 2014 - May 2018
+
+Bachelor of Science, Statistics, Mathematical track
+
+Bachelor of Arts, Asian Language and Studies, Japanese       
+
+ 
+## **WORK EXPERIENCE**
+
+
+### **Instructor**									     January 2019 – Present
+
+New Chanel, Changsha, Hunan, China
+
+•	Teach and facilitate GRE verbal courses, A-level courses, and AP courses in Statistics/Mathematics/Physics-related fields
+
+•	Aided program director to develop systematic evaluation questions and lesson planning
+
+
+### **Data Analyst**								  September 2018 – December 2018
+
+Hunan Television, Changsha, Hunan, China
+
+•	Analyzed, evaluated and examined data on real-time Nielsen ratings to deliver analysis and reports
+
+•	Communicated and counseled with customers as well as supervisors on the advised price for different commercials
+
+•	Incorporated R into the data analysis process which enhanced the efficiency by about 20% compared to the old method
+
+
+### **Supplemental Instruction Leader**    			                                              August 2016 - May 2018
+
+Academic Resource Center, University of Iowa, Iowa City, IA
+
+•	Mentored and led students to gain a deeper understanding of the subject which resulted in 0.33 increase in GPA on average
+
+•	Designed and facilitated the collaborative activities for 3 sessions per week during each semester
+
+•	Assisted the hiring process of perspective Supplemental Instruction leaders by interviewing candidates
+
+•	Completed monthly and biweekly administrative tasks on a time basis, such as attending meetings and writing a lesson plan
+
+
+### **Tippie Learning Coach Lead Tutor**                                                                                    January 2016 – May 2018
+
+Tippie College of Business, University of Iowa, Iowa City, IA
+
+
+•	Aided program supervisor, other tutors, and faculty with biweekly outreach communications and meetings
+
+•	Tailored Tippie Learning Coach experience to be a student-centered academic support program for larger lectures that contained about 300 students each semester
+
+•	Modified and inspected the regulations for tutors as well as supervisors in Tippie Learning Coach program
+
+•	Empowered fellow tutors on redirecting questions and enhancing students’ performance by holding a workshop on the subject
+
+•	Boosted the performances and grades of tutees
+
+
+### **Academic Resource Center Tutor**			                 		       August 2015 – December 2015
+
+Academic Resource Center, University of Iowa, Iowa City, IA
+
+
+•	Provided academic assistance and welcoming environment for students in the subject of Statistics for Business
+
+•	Facilitated small groups of 5-10 students as well as one-on-one tutoring help 
+
+
+## **TEAM PROJECT**
+
+
+### **Exploring Vague Priors on a Variance Component in an LME Model**
+
+
+•	Followed up with Brain Smith’s research on PET images of cancer patient neck and head to investigate the influence of vague priors and the problem of how operators affect the average of the measurements
+
+•	Programmed and test ran in OpenBUGS and R with different priors for the variance component
+
+•	Delivered the presentation and organized the results
+
+
+## **SKILLS**
+
+OpenBUGS, R, Microsoft Word, PowerPoint, Excel, Access, SAS, Python
+
+Fluent in Chinese, English, and Japanese
