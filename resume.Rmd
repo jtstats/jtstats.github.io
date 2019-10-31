@@ -8,11 +8,13 @@ output:
 
 ## **EDUCATION**
 
-### **Columbia University, New York City, NY**							      8/2019 -	 Present
+### **Columbia University, New York City, NY**							      
+*8/2019 -	 Present*
 
 Master of Science, Biostatistics, Statistical Genetics track
 
-### **The University of Iowa, Iowa City, IA**		     			                       	           January 2014 - May 2018
+### **The University of Iowa, Iowa City, IA**		     			                       	           
+*January 2014 - May 2018*
 
 Bachelor of Science, Statistics, Mathematical track
 
@@ -22,7 +24,8 @@ Bachelor of Arts, Asian Language and Studies, Japanese
 ## **WORK EXPERIENCE**
 
 
-### **Instructor**									     January 2019 – Present
+### **Instructor**									     
+*January 2019 – Present*
 
 New Chanel, Changsha, Hunan, China
 
@@ -31,7 +34,8 @@ New Chanel, Changsha, Hunan, China
 •	Aided program director to develop systematic evaluation questions and lesson planning
 
 
-### **Data Analyst**								  September 2018 – December 2018
+### **Data Analyst**								  
+*September 2018 – December 2018*
 
 Hunan Television, Changsha, Hunan, China
 
@@ -42,7 +46,8 @@ Hunan Television, Changsha, Hunan, China
 •	Incorporated R into the data analysis process which enhanced the efficiency by about 20% compared to the old method
 
 
-### **Supplemental Instruction Leader**    			                                              August 2016 - May 2018
+### **Supplemental Instruction Leader**    			                                              
+*August 2016 - May 2018*
 
 Academic Resource Center, University of Iowa, Iowa City, IA
 
@@ -55,7 +60,8 @@ Academic Resource Center, University of Iowa, Iowa City, IA
 •	Completed monthly and biweekly administrative tasks on a time basis, such as attending meetings and writing a lesson plan
 
 
-### **Tippie Learning Coach Lead Tutor**                                                                                    January 2016 – May 2018
+### **Tippie Learning Coach Lead Tutor**                                                                                    
+*January 2016 – May 2018*
 
 Tippie College of Business, University of Iowa, Iowa City, IA
 
@@ -71,7 +77,8 @@ Tippie College of Business, University of Iowa, Iowa City, IA
 •	Boosted the performances and grades of tutees
 
 
-### **Academic Resource Center Tutor**			                 		       August 2015 – December 2015
+### **Academic Resource Center Tutor**			                 		       
+*August 2015 – December 2015*
 
 Academic Resource Center, University of Iowa, Iowa City, IA
 
