@@ -6,15 +6,6 @@ output:
     toc_float: true
 ---
 
-
----
-title: "Jingyi Tang"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
----
-
 ## **EDUCATION**
 
 ### **Columbia University, New York City, NY**							      8/2019 -	 Present

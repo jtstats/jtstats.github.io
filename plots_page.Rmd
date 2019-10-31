@@ -1,0 +1,88 @@
+---
+title: "Plots For Fun"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(viridis)
+library(plotly)
+
+# ensure reproductivity
+set.seed(1)
+
+```
+
+```{r load the dataset}
+
+# load rnoaa dataset
+weather_df = 
+  rnoaa::meteo_pull_monitors(c("USW00094728", "USC00519397", "USS0023B17S"),
+                      var = c("PRCP", "TMIN", "TMAX"), 
+                      date_min = "2017-01-01",
+                      date_max = "2017-12-31") %>%
+  mutate(
+    name = recode(id, USW00094728 = "CentralPark_NY", 
+                      USC00519397 = "Waikiki_HA",
+                      USS0023B17S = "Waterhole_WA"),
+    tmin = tmin / 10,
+    tmax = tmax / 10) %>%
+  select(name, id, everything())
+weather_df
+
+```
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+# interactive scatterplot
+weather_df %>% 
+  # create text_label variable to show use as the info from prcp and date in the interactive scatterplot
+  mutate(text_label = str_c("Precipipation: $", prcp, '\nDate: ', date)) %>% 
+  plot_ly(
+    # x-axis is tmin, y-axis is tmax
+    x = ~tmin, y = ~tmax, type = "scatter", mode = "markers",
+    # color by name, and give the text by text-label
+    color = ~name, text = ~text_label, alpha = 0.5
+  )
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+# boxplot for tmin
+weather_df %>% 
+  mutate(name = fct_reorder(name, tmin)) %>% 
+  plot_ly(y = ~tmin, color = ~name, type = "box", colors = "Set2")
+
+```
+
+### Chart C
+
+```{r}
+
+# Bar Chart
+
+weather_df %>% 
+  count(name) %>% 
+  mutate(name = fct_reorder(name, n)) %>% 
+  plot_ly(x = ~name, y = ~n, color = ~name, typr = "bar")
+
+```
+
