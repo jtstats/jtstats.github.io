@@ -34,7 +34,6 @@ weather_df =
     tmin = tmin / 10,
     tmax = tmax / 10) %>%
   select(name, id, everything())
-weather_df
 
 ```
 
